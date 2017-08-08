@@ -1,0 +1,24 @@
+{
+  "name": "store-keeper-client",
+  "description": "SPA application for managing inventory, purchases & sales for shop",
+  "main": "index.js",
+  "authors": [
+    "arif.ahmed"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "inventory",
+    "store",
+    "pos",
+    "system",
+    "single-page-application"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

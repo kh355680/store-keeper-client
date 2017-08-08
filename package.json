@@ -1,0 +1,30 @@
+{
+  "name": "store-keeper-client",
+  "version": "1.0.0",
+  "description": "SPA application for managing inventory, purchases & sales for shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kh355680/store-keeper-client.git"
+  },
+  "keywords": [
+    "inventory",
+    "store",
+    "pos",
+    "system",
+    "single-page-application"
+  ],
+  "author": "arif.ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kh355680/store-keeper-client/issues"
+  },
+  "homepage": "https://github.com/kh355680/store-keeper-client#readme",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-ui-router": "^1.0.3"
+  }
+}
