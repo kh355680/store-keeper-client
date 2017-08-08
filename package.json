@@ -23,8 +23,6 @@
     "url": "https://github.com/kh355680/store-keeper-client/issues"
   },
   "homepage": "https://github.com/kh355680/store-keeper-client#readme",
-  "dependencies": {
-    "angular": "^1.6.5",
-    "angular-ui-router": "^1.0.3"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
